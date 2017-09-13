@@ -1,0 +1,5 @@
+#!/home/kobra/Desktop/PyGame/djoka/bin/python
+from cx_Freeze.setupwriter import main
+
+main()
+
